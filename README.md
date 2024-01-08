@@ -13,4 +13,4 @@ The MSG command will cause a message to be sent to the client by its name. For e
 will cause HELLO to be sent to client A. The server will add before that who the sender is
 the message, for example if B sent the message to A then A will show B sent HELLO.
 
-The EXIT command will disconnect the client and close its socket
+The EXIT command will disconnect the client and close its socket.
